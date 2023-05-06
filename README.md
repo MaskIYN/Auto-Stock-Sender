@@ -5,3 +5,4 @@ so here "auto stock sender"
 
 this sender not made by me btw
 credits to TechnoPlayZ
+https://github.com/TecnoPlayZ/
